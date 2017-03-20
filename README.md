@@ -2,7 +2,7 @@
 
 This is my first react native app.
 
-![Albums screenshot]()
+![Albums screenshot](https://github.com/joannexin/Albums/blob/master/assets/albums.png)
 
 ## This is what I learnt
 
